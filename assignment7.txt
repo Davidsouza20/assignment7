@@ -1,0 +1,23 @@
+After completing the assignment, please answer the questions in this text file and submit it to I-Learn.
+
+0. Don't forget to also upload your javascript file to the assignment dropbox in I-Learn.
+
+1. Briefly describe any pieces of the assignment that are not yet working correctly.
+
+Everything is working as required.
+
+2. Briefly describe the "coolest" thing you learned while completing this assignment.
+
+It is awesome to see the how the things works behind the scene. I worked a little bit with frameworks that use npm, and now I am seeing things that happen behind the framework.
+
+3. Describe anything you did to go above and beyond with this assignment.
+
+4. Please select the category you feel best describes your assignment:
+
+4 - Meets requirements
+
+
+
+5. Provide a brief justification (1-2 sentences) for selecting that category.
+
+I tried to get url parameters to make calculations but I cant get it working
